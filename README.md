@@ -12,7 +12,7 @@
   <p>Storntreat is a roblox account made by me starting 2016, I have gotten builders club but don't have it anymore.</p>
 <hr>
 <h2><em>Watch Storntreat's most recent video!</em></h2>
-  <img src="https://i9.ytimg.com/vi/1uem93uujDE/maxresdefault.jpg?v=64135635&sqp=COzC-KcG&rs=AOn4CLCGRcdeu_sQRhHXckuQTh8rlMcX5g" width="640" height="360" alt="Latest Video Thumbnail">
+  <img src="file:///Users/kevinshen/Downloads/yeet%20yetet.jpeg" width="640" height="360" alt="Latest Video Thumbnail">
   <br>
   <a href="https://www.youtube.com/watch?v=1uem93uujDE" target="_blank"><em>Bronze Sea Explorer GUIDE! | Arcane Odyssey</em></a>
 </body>
