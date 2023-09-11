@@ -19,8 +19,8 @@
 <br>
   <br>
   <br>
-<a href="https://youtu.be/xrC6HQihjuY" target="_blank" style="background-color:green;">
-  <button style="color:blue;">Click me to view a secret storntreat clip!</button>
+<a href="https://youtu.be/xrC6HQihjuY" target="_blank">
+  <button style="color:blue;" style="background-color:green;">Click me to view a secret storntreat clip!</button>
 </a>
 
 </body>
