@@ -25,5 +25,10 @@
 <meta charset="UTF-8">
 <p>&#128526;</p>
 
+<form>
+<input type="radio" name="fav_language" value="html"> HTML
+<input type="radio" name="fav_language" value="css"> CSS
+</form>
+
 </body>
 </html>
