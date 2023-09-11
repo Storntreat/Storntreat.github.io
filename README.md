@@ -9,7 +9,7 @@
 <button style="color:pink;">Click here to view the Storntreat Youtube Channel</button>
 </a>
   <h4><em><strong>What is Storntreat?</strong></em></h4>
-  <p style="background-color:yellow;">Storntreat is a roblox account made by me starting 2016, I have gotten builders club but don't have it anymore.</p>
+  <p style="background-color:yellow;"><span>Storntreat is a roblox account made by me starting 2016, I have gotten builders club but don't have it anymore.</span></p>
   <p style="text-align:center;">Most viewed video: 77k</p>
 <hr>
 <h2><em>Watch Storntreat's most recent video!</em></h2>
