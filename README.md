@@ -20,7 +20,7 @@
   <br>
   <br>
 <a href="https://youtu.be/xrC6HQihjuY" target="_blank">
-  <button style="background-color:green;" style="color:purple;">Click me to view a secret storntreat clip!</button>
+  <button style="background-color:green;" style="color:magenta;">Click me to view a secret storntreat clip!</button>
 </a>
 
 </body>
