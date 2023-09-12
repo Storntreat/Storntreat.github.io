@@ -12,6 +12,13 @@
   <p style="background-color:yellow;"><span>Storntreat is a roblox account made by me starting 2016, I have gotten builders club but don't have it anymore.</span></p>
   <p style="text-align:center;">Most viewed video: 77k &#128526;</p>
 <hr>
+  <p>What is your gender?</p>
+  <form>
+<input type="radio" name="fav_language" value="yes"> Male
+    <br>
+<input type="radio" name="fav_language" value="no"> Female
+</form>
+
 <h2><em>Watch Storntreat's most recent video!</em></h2>
   <img src="https://img.youtube.com/vi/1uem93uujDE/0.jpg" width="400" height="300" alt="Latest Video Thumbnail">
   <br>
