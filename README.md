@@ -1,6 +1,14 @@
 <html>
   <title>Storntreat's webpage</title>
 <body>
+<style>
+  .myDiv{
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+    font-family: helvetica;
+    }
+</style>
   
 <h1 style="text-align:center;">Storntreat's webpage</h1>
 </body>
@@ -38,5 +46,11 @@
 <input type="radio" name="fav_language" value="no"> HELL NAW
 </form>
 
+<div class="myDiv">
+  <h2>Hello my name Jeff.</h2>
+  <p>Yessir</p>
+  <br>
+  <img width="500" length="300" src="http://t3.gstatic.com/images?q=tbn:ANd9GcR-uvr1tKqxsuxDYQQC2DVrJ-oSiB4aF4ubJC7jyub528JgPqJksZKHuaULP1wgFkX7AY48">
+</div>
 </body>
 </html>
