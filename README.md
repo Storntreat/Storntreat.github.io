@@ -9,7 +9,9 @@
     font-family: helvetica;
     }
   .resizeable{
-    resizeable:both;
+    resize: both;
+    overflow: auto;
+    padding: 10px; 
     border: 5px solid blue;
     text-align: right;
     font-family: Courier New, monospace;
