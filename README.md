@@ -8,6 +8,12 @@
     text-align: center;
     font-family: helvetica;
     }
+  .resizeable{
+    resizeable:both;
+    border: 5px solid blue;
+    text-align: right;
+    font-family: Courier New, monospace;
+    }
 </style>
   
 <h1 style="text-align:center;">Storntreat's webpage</h1>
@@ -51,6 +57,10 @@
   <p>Yessir</p>
   <br>
   <img width="500" length="300" src="http://t3.gstatic.com/images?q=tbn:ANd9GcR-uvr1tKqxsuxDYQQC2DVrJ-oSiB4aF4ubJC7jyub528JgPqJksZKHuaULP1wgFkX7AY48">
+</div>
+<hr>
+<div class="resizeable">
+  <p>this box is resizeable</p>
 </div>
 </body>
 </html>
