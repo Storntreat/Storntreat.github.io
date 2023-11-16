@@ -15,6 +15,7 @@
     border: 5px solid blue;
     text-align: right;
     font-family: Courier New, monospace;
+    overflow: hidden;
     }
 </style>
   
