@@ -8,6 +8,11 @@
     text-align: center;
     font-family: helvetica;
     }
+  .whiteBox{
+    background-color:white;
+    width: 250px;
+    length: 500px;
+    }
   .resizeable{
     resize: both;
     overflow: auto;
@@ -62,7 +67,10 @@
 </div>
 <hr>
 <div class="resizeable" style="height: 85px; width: 250px">
-  <p>this box is resizeable</p>
+  <p><strong>this box is resizeable</strong></p>
+  <div class="whiteBox">
+  </div>
+  <p><em>congrats for finding the secret!</em></p>
 </div>
 </body>
 </html>
