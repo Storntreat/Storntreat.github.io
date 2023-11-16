@@ -15,6 +15,7 @@
     border: 5px solid blue;
     text-align: right;
     font-family: Courier New, monospace;
+    style: width="250" length="200";
     }
 </style>
   
