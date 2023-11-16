@@ -64,17 +64,17 @@
 <div class="resizeable" style="height: 85px; width: 250px">
   <p><strong>this box is resizeable</strong></p>
   <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
+    <p>&#8192;</p>
   <p><em>congrats for finding the secret!</em></p>
 </div>
 </body>
