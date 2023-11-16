@@ -61,7 +61,7 @@
   <img width="500" length="300" src="http://t3.gstatic.com/images?q=tbn:ANd9GcR-uvr1tKqxsuxDYQQC2DVrJ-oSiB4aF4ubJC7jyub528JgPqJksZKHuaULP1wgFkX7AY48">
 </div>
 <hr>
-<div class="resizeable" width="250" height="200">
+<div class="resizeable" style="height: 85px; width: 250px">
   <p>this box is resizeable</p>
 </div>
 </body>
