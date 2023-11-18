@@ -1,6 +1,5 @@
 <html>
   <title>Storntreat's webpage</title>
-<body>
 <style>
   .myDiv{
     border: 5px outset red;
@@ -17,10 +16,11 @@
     font-family: Courier New, monospace;
     }
 </style>
-  
-<h1 style="text-align:center;">Storntreat's webpage</h1>
-</body>
 <body>
+<h1 style="text-align:center;">Storntreat's webpage</h1>
+<a href="https://storntreat.github.io/Rogue-lineage/">
+  <p>Visit the Rogue lineage top glazing moments!</p>
+</a>
 <a href="https://www.youtube.com/channel/UC1six-0ZUK7rXDP13dO46VQ" target="_blank">
 <button style="color:pink;">Click here to view the Storntreat Youtube Channel</button>
 </a>
