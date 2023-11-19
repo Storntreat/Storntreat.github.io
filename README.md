@@ -21,6 +21,7 @@
 <a href="https://storntreat.github.io/Rogue-lineage/">
   <p>Visit the Rogue lineage top glazing moments!</p>
 </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/2/2486.png">
 <a href="https://www.youtube.com/channel/UC1six-0ZUK7rXDP13dO46VQ" target="_blank">
 <button style="color:pink;">Click here to view the Storntreat Youtube Channel</button>
 </a>
